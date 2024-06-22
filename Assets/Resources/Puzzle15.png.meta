@@ -147,7 +147,7 @@ TextureImporter:
       213: 3568434248108543570
     second: Puzzle15_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +207,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1300,6 +1302,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Puzzle15_0: -110983890274497833
+      Puzzle15_1: 4448008388806102843
+      Puzzle15_10: 915580939363679378
+      Puzzle15_11: 4214607410928751492
+      Puzzle15_12: -6158787960425958690
+      Puzzle15_13: 6710321438794593340
+      Puzzle15_14: -6207232861670289438
+      Puzzle15_15: -2087391401961401886
+      Puzzle15_16: -8800844818518990614
+      Puzzle15_17: 7972610566740692637
+      Puzzle15_18: 629159169998977043
+      Puzzle15_19: -5140935690108929156
+      Puzzle15_2: -6372607069667809450
+      Puzzle15_20: 2169008307636539388
+      Puzzle15_21: 3792193561354175320
+      Puzzle15_22: 1333497335705002029
+      Puzzle15_23: -2099916503033495132
+      Puzzle15_24: 6338050338542222322
+      Puzzle15_25: 8487998307809834702
+      Puzzle15_26: 4064306087868956921
+      Puzzle15_27: 1357283851277068145
+      Puzzle15_28: 4007602888433316877
+      Puzzle15_29: -2004046932353928703
+      Puzzle15_3: 4836048293219073742
+      Puzzle15_30: -1754493201924271366
+      Puzzle15_31: 885623090755850260
+      Puzzle15_32: 4910949342270082933
+      Puzzle15_33: 6920416264601114023
+      Puzzle15_34: -5229380556148139636
+      Puzzle15_35: -5564155257780638236
+      Puzzle15_36: 271027439203020443
+      Puzzle15_37: -1046713116120173208
+      Puzzle15_38: 8206333316054921324
+      Puzzle15_39: 8061407137939393173
+      Puzzle15_4: -8091583402451172052
+      Puzzle15_40: 1217700236137137579
+      Puzzle15_41: -8852232567441694066
+      Puzzle15_42: 4998866018813233459
+      Puzzle15_43: 8600027690521925644
+      Puzzle15_44: 4414014639158427590
+      Puzzle15_45: 2628368821843413809
+      Puzzle15_46: 5522264969945469677
+      Puzzle15_47: 3568434248108543570
+      Puzzle15_5: -5571589363771215099
+      Puzzle15_6: -2684409317536329349
+      Puzzle15_7: -2795921920755747341
+      Puzzle15_8: -1352928255744614444
+      Puzzle15_9: -3821232423180623780
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

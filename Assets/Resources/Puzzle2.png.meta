@@ -51,7 +51,7 @@ TextureImporter:
       213: -2471183215983862598
     second: Puzzle2_15
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -110,6 +111,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -532,6 +534,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Puzzle2_0: -5698291854482962402
+      Puzzle2_1: 2043892628678761249
+      Puzzle2_10: 8134290407940117946
+      Puzzle2_11: -3238414624869394787
+      Puzzle2_12: -6235274048982229826
+      Puzzle2_13: -7627002195598323042
+      Puzzle2_14: 2364692405036922228
+      Puzzle2_15: -2471183215983862598
+      Puzzle2_2: 755815809449522764
+      Puzzle2_3: 7485981557791918763
+      Puzzle2_4: -6967761038439331054
+      Puzzle2_5: -4031485972227101836
+      Puzzle2_6: -4581838673496270743
+      Puzzle2_7: -8595431832634826559
+      Puzzle2_8: -3564751888608071372
+      Puzzle2_9: 2145928698765531996
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -51,7 +51,7 @@ TextureImporter:
       213: 4931247352089719404
     second: ExamplePuzzle_15
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -110,6 +111,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -532,6 +534,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ExamplePuzzle_0: -1147577616774146854
+      ExamplePuzzle_1: 8770028661773222401
+      ExamplePuzzle_10: -8060935379676327035
+      ExamplePuzzle_11: 7624914380808816222
+      ExamplePuzzle_12: -3997962145025309168
+      ExamplePuzzle_13: -6457799987242070344
+      ExamplePuzzle_14: 6438460528008689242
+      ExamplePuzzle_15: 4931247352089719404
+      ExamplePuzzle_2: -7788209224524466398
+      ExamplePuzzle_3: 2190552878482162436
+      ExamplePuzzle_4: -6275629549232990057
+      ExamplePuzzle_5: -1529971105170370795
+      ExamplePuzzle_6: 3126004297309819464
+      ExamplePuzzle_7: 1346880723570576480
+      ExamplePuzzle_8: -109593928898864183
+      ExamplePuzzle_9: 3261629076461928388
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

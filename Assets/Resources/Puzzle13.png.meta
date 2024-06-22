@@ -147,7 +147,7 @@ TextureImporter:
       213: 8285735445753232790
     second: Puzzle13_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +207,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1300,6 +1302,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Puzzle13_0: 7272039474201110122
+      Puzzle13_1: 7863311625889477029
+      Puzzle13_10: 4290297959263398519
+      Puzzle13_11: -2689933403140605039
+      Puzzle13_12: 7879955836185771891
+      Puzzle13_13: -490512720146303131
+      Puzzle13_14: 8509038795767176465
+      Puzzle13_15: 6892172786507932703
+      Puzzle13_16: 1042407274095467893
+      Puzzle13_17: -2498050985813395727
+      Puzzle13_18: -2006444751879890087
+      Puzzle13_19: 4993425128913929600
+      Puzzle13_2: -8600944543141943088
+      Puzzle13_20: -1931233324684396628
+      Puzzle13_21: -2990083614191909394
+      Puzzle13_22: 2524409019442399255
+      Puzzle13_23: -1614204718798439851
+      Puzzle13_24: -7326027562380286892
+      Puzzle13_25: -2518148292084630018
+      Puzzle13_26: -5493835775620692301
+      Puzzle13_27: -7889236748677710416
+      Puzzle13_28: 8000193882189891029
+      Puzzle13_29: -7795843084209599977
+      Puzzle13_3: 3265927655175247287
+      Puzzle13_30: -2221349803279528415
+      Puzzle13_31: 3359463754070758729
+      Puzzle13_32: 6063158076771468541
+      Puzzle13_33: -3049397034157254275
+      Puzzle13_34: -7251640550493782906
+      Puzzle13_35: 6099212099017551835
+      Puzzle13_36: -6136841403031699464
+      Puzzle13_37: -6132645201779198183
+      Puzzle13_38: 2137206781277815554
+      Puzzle13_39: -1983331078669629177
+      Puzzle13_4: 2985302330251387514
+      Puzzle13_40: 370108310080353259
+      Puzzle13_41: 6133552582698080141
+      Puzzle13_42: 8555456969272849955
+      Puzzle13_43: 8306100275363553216
+      Puzzle13_44: -232716888647454243
+      Puzzle13_45: -5822280362412994369
+      Puzzle13_46: -4195328611328151186
+      Puzzle13_47: 8285735445753232790
+      Puzzle13_5: 7803662973980882620
+      Puzzle13_6: -2900503489185117529
+      Puzzle13_7: -2181926358344288674
+      Puzzle13_8: -9053482196125445867
+      Puzzle13_9: 6161603114545279740
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

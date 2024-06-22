@@ -147,7 +147,7 @@ TextureImporter:
       213: -5467035406279315599
     second: Puzzle14_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +207,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1300,6 +1302,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Puzzle14_0: 5834195676469589975
+      Puzzle14_1: -7328695566366120688
+      Puzzle14_10: 905663310295350827
+      Puzzle14_11: -8227046240040630497
+      Puzzle14_12: 4730838432108696811
+      Puzzle14_13: 8817332417051495078
+      Puzzle14_14: 1885940116460208122
+      Puzzle14_15: -1855214448312374435
+      Puzzle14_16: -1279770908595774029
+      Puzzle14_17: 6232849640022438594
+      Puzzle14_18: -5632261688511163547
+      Puzzle14_19: -6541159632844109808
+      Puzzle14_2: -6012855003434565749
+      Puzzle14_20: 5329027878952621639
+      Puzzle14_21: 5309157600557918874
+      Puzzle14_22: -3520390986354566128
+      Puzzle14_23: -7185299992961013274
+      Puzzle14_24: 5477789415561156498
+      Puzzle14_25: 9196984390611662174
+      Puzzle14_26: 3631989111722079869
+      Puzzle14_27: 7108800952097005041
+      Puzzle14_28: 3550749357175069500
+      Puzzle14_29: 6491404813787642393
+      Puzzle14_3: -3922957122370167722
+      Puzzle14_30: 2839677088332303293
+      Puzzle14_31: -5532825616235335594
+      Puzzle14_32: -8222588585143335771
+      Puzzle14_33: -5429419208583362573
+      Puzzle14_34: -8359196804594746831
+      Puzzle14_35: -922300664594543289
+      Puzzle14_36: -7032541538968337876
+      Puzzle14_37: -1013091110859311635
+      Puzzle14_38: 1946402829086550260
+      Puzzle14_39: 7596824746709373636
+      Puzzle14_4: 8287552147164046171
+      Puzzle14_40: -3736945869075671152
+      Puzzle14_41: -4574068015107419945
+      Puzzle14_42: 3901896068045333789
+      Puzzle14_43: 367770641010476316
+      Puzzle14_44: -4743709456791620779
+      Puzzle14_45: -8869393618384337615
+      Puzzle14_46: -3201060098431203865
+      Puzzle14_47: -5467035406279315599
+      Puzzle14_5: -9191712803873281853
+      Puzzle14_6: -8459134155623808723
+      Puzzle14_7: 4664154495835008255
+      Puzzle14_8: -6372488558764211387
+      Puzzle14_9: -364762593360540451
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -147,7 +147,7 @@ TextureImporter:
       213: 3842557670433590305
     second: Puzzle11_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +207,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1300,6 +1302,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Puzzle11_0: 2668396145455841385
+      Puzzle11_1: 8533491654552215091
+      Puzzle11_10: 3255306226793954089
+      Puzzle11_11: 4876167657685114566
+      Puzzle11_12: -141108946370125433
+      Puzzle11_13: 3034740252620125542
+      Puzzle11_14: -4918465542859426229
+      Puzzle11_15: 4832369612013316755
+      Puzzle11_16: -6919720178428714540
+      Puzzle11_17: 557557811685642200
+      Puzzle11_18: -4602817891899146000
+      Puzzle11_19: -5834407566604456794
+      Puzzle11_2: 5491263570574485165
+      Puzzle11_20: -7887057449281414792
+      Puzzle11_21: -6024192451216692788
+      Puzzle11_22: -5616280997697708532
+      Puzzle11_23: 6549455197619060425
+      Puzzle11_24: 4954748732007220752
+      Puzzle11_25: -2296911036158680435
+      Puzzle11_26: 8218216001915018857
+      Puzzle11_27: -1650712098632252897
+      Puzzle11_28: 1900414663797563041
+      Puzzle11_29: -5479236526262658570
+      Puzzle11_3: 33169825980059485
+      Puzzle11_30: 2889940320280256552
+      Puzzle11_31: -1780072806838690041
+      Puzzle11_32: -6951402173664522639
+      Puzzle11_33: -3780910441103080674
+      Puzzle11_34: 8632195999040896711
+      Puzzle11_35: -1816716071338982841
+      Puzzle11_36: 4310465848013259098
+      Puzzle11_37: 6484369632462421720
+      Puzzle11_38: -1682260568488985039
+      Puzzle11_39: 5254200271142960721
+      Puzzle11_4: 3750590977717955564
+      Puzzle11_40: 7957585705454070578
+      Puzzle11_41: 7441419570499971209
+      Puzzle11_42: 5851263866517191692
+      Puzzle11_43: -473560786930895102
+      Puzzle11_44: 2433347569412787568
+      Puzzle11_45: -5817222930230780701
+      Puzzle11_46: -2593388976659604248
+      Puzzle11_47: 3842557670433590305
+      Puzzle11_5: -2489386601784466112
+      Puzzle11_6: -8488023140650449136
+      Puzzle11_7: -5287945858003583515
+      Puzzle11_8: -370654428880525119
+      Puzzle11_9: 3397834140577270910
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
