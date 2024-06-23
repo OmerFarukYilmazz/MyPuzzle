@@ -6,7 +6,7 @@
 
 ## Features 📃
 
-Made all UI, 
+- Made all UI, 
 used Json for save file, level, modes, time, cube position etc. Used particle system 
 and animation. Added Admob.
 
