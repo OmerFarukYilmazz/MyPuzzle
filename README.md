@@ -1,4 +1,4 @@
-## Opera Puzzle Game
+# Opera Puzzle Game
 
 ## Preview 👀
 
